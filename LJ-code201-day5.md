@@ -1,4 +1,6 @@
-# Images \- Inline Elements
+# LJ Code 201 - Day 5
+
+#### Images \- Inline Elements
   - <a src="https://www.gettyimages.com">gettyimages.com</a>
   - <a src="https://www.gimp.org">gimp.org</a>
   - <img title="<img title="hover text for image" />"" />
