@@ -8,7 +8,7 @@
   - Photos [for line art, logos, etc.]
 - #### Cons
   - 'expensive' - bandwidth
-  
+
 #### <u>GIF</u>
 - ###### Pros
   - good for [line art, logos, animation]
@@ -51,10 +51,12 @@ Always create new branches from 'master'
 
 - #### Branching
 Ways to work on different parts of the project and then merge to the master project.
+
     - Move to another branch: ~git checkout <'branch-name'>
     - Create new branch: ~git checkout -b <'branch-name'>
     - Push branch edits up: ~git push origin <'branch-name'>
     - Pull request: from <'branch-name'> to <'master'>
+    
 - #### Publishing shareable link as new branch
   ~git checkout -b gh-pages </br>
   ~git push origin gh-pages
