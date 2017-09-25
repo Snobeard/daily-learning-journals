@@ -8,7 +8,7 @@
   - Photos [for line art, logos, etc.]
 - #### Cons
   - 'expensive' - bandwidth
-<span>
+  
 #### <u>GIF</u>
 - ###### Pros
   - good for [line art, logos, animation]
