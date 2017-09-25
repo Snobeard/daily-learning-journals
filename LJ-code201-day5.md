@@ -40,14 +40,12 @@
 
 - #### Git commandments
 Always keep your local 'master' current with GH 'master':
- - ~git pull origin master (after every merge)
-
+     - ~git pull origin master (after every merge)
 
 Always create new branches from 'master'
  - git checkout master
  - git pull origin master
  - git checkout -b <'new-branch'>
-
 
 - #### Branching
 Ways to work on different parts of the project and then merge to the master project.
@@ -56,7 +54,7 @@ Ways to work on different parts of the project and then merge to the master proj
     - Create new branch: ~git checkout -b <'branch-name'>
     - Push branch edits up: ~git push origin <'branch-name'>
     - Pull request: from <'branch-name'> to <'master'>
-    
+
 - #### Publishing shareable link as new branch
   ~git checkout -b gh-pages </br>
   ~git push origin gh-pages
