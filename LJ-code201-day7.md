@@ -12,6 +12,10 @@ function MyObject () { </br>
 &nbsp;&nbsp;  this.key = value; </br>
 &nbsp;&nbsp;  this.key = value; </br>
 };
+###### Prototype
+Object.prototype.name = function() { </br>
+parameters </br>
+};
 
 ### Table
  - < table > - initiate table
