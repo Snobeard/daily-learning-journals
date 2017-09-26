@@ -16,4 +16,5 @@
 
 #### Objects through html in javascript
   - document
-  - document.body
+  - document.body - selector
+  - document.getElementById('idName') - selects the id
