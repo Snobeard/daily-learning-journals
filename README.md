@@ -32,3 +32,10 @@ My Learning Journal for Code 201 - Sept. 2017
 - Event listeners
 - input forms
 - different for loop
+
+#### Day 9
+- Imperative vs Declarative
+- Functions are objects!
+- Hoisting (javascript makes 2 passes)
+- REGex
+- CSS Layout
