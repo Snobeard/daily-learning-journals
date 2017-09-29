@@ -39,3 +39,7 @@ My Learning Journal for Code 201 - Sept. 2017
 - Hoisting (javascript makes 2 passes)
 - REGex
 - CSS Layout
+
+#### Day 10
+- debugger
+- float
