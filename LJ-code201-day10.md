@@ -1,7 +1,8 @@
 # LJ Code 201 - Day 10
 
 #### Debug
-- debugger;
+- debugger; </br> stops code execution where it is set. </br>
+can also use the browsers sources and select the line.
 
 #### Float (ex: left)
 - moves element out of normal flow
