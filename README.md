@@ -1,4 +1,4 @@
-# daily-learning-journals
+# Daily-learning-journals
 My Learning Journal for Code 201 - Sept. 2017
 
 #### Day 2
@@ -43,3 +43,7 @@ My Learning Journal for Code 201 - Sept. 2017
 #### Day 10
 - debugger
 - float
+
+#### Day 11
+- GitIgnore
+- DOM (src_change)
