@@ -23,3 +23,6 @@
 - 2 = major version change (may break old versions)
 - 6 = minor version change (non-breaking, added features)
 - 4 = bug fix layer
+
+#### Javascript (formatting elements) - pre-pend
+- .prepend(element) - creates NEW first child
