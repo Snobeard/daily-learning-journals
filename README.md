@@ -47,3 +47,10 @@ My Learning Journal for Code 201 - Sept. 2017
 #### Day 11
 - GitIgnore
 - DOM (src_change)
+
+#### Day 12
+- Connect to original fork
+- Arrays - .unshift
+- Event Listener (remove)
+- Chart.js (library)
+- Semantic Versioning '2.6.4'
