@@ -55,3 +55,13 @@ My Learning Journal for Code 201 - Sept. 2017
 - Chart.js (library)
 - Semantic Versioning '2.6.4'
 - Javascript - .prepend
+
+#### Day 13
+- Storage
+  - Persistent (server / cookies)
+  - localStorage
+  - Persistence Layers
+    - Storage
+    - retrieve
+    - clear
+- JSON (JS Object Notation)
