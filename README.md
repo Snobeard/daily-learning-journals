@@ -65,3 +65,15 @@ My Learning Journal for Code 201 - Sept. 2017
     - retrieve
     - clear
 - JSON (JS Object Notation)
+
+#### Day 14
+- Array Methods
+  - Push Alternatives
+  - Pop Storing
+  - Unshift / Shift
+- String Methods
+  - slice
+  - split
+  - Trim
+- IIFE (immediately invoked function expression)
+- Css Functions (animation)
