@@ -77,3 +77,9 @@ My Learning Journal for Code 201 - Sept. 2017
   - Trim
 - IIFE (immediately invoked function expression)
 - Css Functions (animation)
+
+#### Day 15
+- Arrays (concatenate)
+- Node (js in terminal / unix)
+- API (Application Programming Interface)
+  - Abstraction
