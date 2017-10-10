@@ -1,6 +1,8 @@
 # LJ Code 201 - Day 16
 
 #### Arrays (sorting)
+- a = array[0]
+- b = array[0 + 1]
 - points.sort(function(a, b){return(a - b)}); - returns ascending integers
 - points.sort(function(a, b){return(b - a)}); - returns descending integers
 - points.sort(function(a, b){return 0.5 - Math.random()}); - random order
