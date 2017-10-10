@@ -83,3 +83,6 @@ My Learning Journal for Code 201 - Sept. 2017
 - Node (js in terminal / unix)
 - API (Application Programming Interface)
   - Abstraction
+
+#### Day 16
+- Arrays (sorting)
