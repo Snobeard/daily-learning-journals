@@ -86,3 +86,12 @@ My Learning Journal for Code 201 - Sept. 2017
 
 #### Day 16
 - Arrays (sorting)
+
+#### Day 17
+- Creating / Adding Elements (as nth child)
+- Accent lines (adjacent to element's text)
+  - HTML
+  - CSS
+
+#### Day 18
+- CSS (bg-image fixed when handling corresponding elements)
