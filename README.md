@@ -95,3 +95,7 @@ My Learning Journal for Code 201 - Sept. 2017
 
 #### Day 18
 - CSS (bg-image fixed when handling corresponding elements)
+- Retrieving localStorage (arrays)
+
+#### Day 19
+- Splicing Strings (return partial string)
