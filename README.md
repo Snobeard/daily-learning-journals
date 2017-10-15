@@ -99,3 +99,6 @@ My Learning Journal for Code 201 - Sept. 2017
 
 #### Day 19
 - Splicing Strings (return partial string)
+
+#### Day 20
+- <a href='https://codepen.io/snobeard/pen/YrJxaw'>Pseudo-Parallax</a>
