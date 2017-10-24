@@ -1,7 +1,7 @@
 # Daily-learning-journals
 My Learning Journal for Code 201 - Sept. 2017
 
-#### Day 2
+#### Day 2 <a href="LJ-code201-day2.md">link?</a>
 - starting journal format
 
 #### Day 4
