@@ -1,6 +1,5 @@
 # Code 201 - Sept. 2017
 <a href="../README.md">`Home`</a>
-
 <hr>
 
 #### <a href="LJ-code201-day2.md">Day 2</a>

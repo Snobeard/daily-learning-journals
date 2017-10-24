@@ -1,4 +1,7 @@
 # LJ Code 301 - Day 1
+<a href="../README.md">`Home`</a>
+<a href="301_README.md">`301 Index`</a>
+<hr>
 
 #### 'Let' and 'Const'
 - `let` is useful when using a variable only within it's given scope. </br>

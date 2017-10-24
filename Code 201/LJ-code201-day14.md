@@ -1,4 +1,7 @@
 # LJ Code 201 - Day 14
+<a href="../README.md">`Home`</a>
+<a href="201_README.md">`201 Index`</a>
+<hr>
 
 ### <u>Array Methods</u>
 

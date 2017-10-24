@@ -1,4 +1,7 @@
 # LJ Code 201 - Day 18
+<a href="../README.md">`Home`</a>
+<a href="201_README.md">`201 Index`</a>
+<hr>
 
 #### CSS (bg-image fixed when handling corresponding elements)
 1. Wrap image you want to display in div (or other)
