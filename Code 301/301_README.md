@@ -4,3 +4,7 @@
 <hr>
 
 #### <a href="LJ-code301-day1.md">Day 1</a>
+- 'Let' and 'Const'
+- Template Literals
+- SMACCS
+- Regular Expressions (RegExp)
