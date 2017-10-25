@@ -3,7 +3,7 @@
 <a href="201_README.md">`201 Index`</a>
 <hr>
 
-<a href="learnlayout.com">Learn Layout</a>
+<a type="\_blank" href="http://learnlayout.com">Learn Layout</a>
 ### Arrays (concatenate)
 - array1.concat(array2);
 

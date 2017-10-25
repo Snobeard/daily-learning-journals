@@ -102,4 +102,4 @@
 - Splicing Strings (return partial string)
 
 #### <a href="LJ-code201-day20.md">Day 20</a>
-- <a href='https://codepen.io/snobeard/pen/YrJxaw'>Pseudo-Parallax</a>
+- <a type="\_blank" href='https://codepen.io/snobeard/pen/YrJxaw'>Pseudo-Parallax</a>
