@@ -3,9 +3,9 @@
 <a href="301_README.md">`301 Index`</a>
 <hr>
 
-#### <a target="\_blank" href="http://jquery.com/download">jQuery Docs</a>
+#### <a href="http://jquery.com/download">jQuery Docs</a>
 - `<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>`
-- <a type="\_blank" href="https://oscarotero.com/jquery/">jQuery API reference sheet</a>
+- <a href="https://oscarotero.com/jquery/">jQuery API reference sheet</a>
 
 #### jQuery Selectors / Methods
 - `$('ul li');`

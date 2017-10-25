@@ -24,7 +24,7 @@ is the same as <br>
   3. layout css - more in depth organizing of style and design
   4. module css - fine detailing of specific components
 
-#### Regular expressions - <a type="\_blank"  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp">RegExp MDN</a>
+#### Regular expressions - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp">RegExp MDN</a>
 
 - / <i>pattern</i> / <i>flags</i>
 - `pattern = 'text of the regular expression'`
