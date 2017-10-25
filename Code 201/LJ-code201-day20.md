@@ -4,4 +4,4 @@
 <hr>
 
 #### pseudo-parallax (scrolling background image)
-- <a type="\_blank" href='https://codepen.io/snobeard/pen/YrJxaw'>Sliding Background Change</a>
+- <a href='https://codepen.io/snobeard/pen/YrJxaw'>Sliding Background Change</a>

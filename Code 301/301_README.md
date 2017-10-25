@@ -10,5 +10,5 @@
 - Regular Expressions (RegExp)
 
 #### <a href="LJ-code301-day2.md">Day 2</a>
-- <a href="http://jquery.com/download" type="_blank">jQuery Docs</a>
+- <a href="http://jquery.com/download">jQuery Docs</a>
 - jQuery Selectors / Methods
