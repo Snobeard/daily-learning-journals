@@ -12,3 +12,6 @@
 #### <a href="LJ-code301-day2.md">Day 2</a>
 - <a href="http://jquery.com/download">jQuery Docs</a>
 - jQuery Selectors / Methods
+
+#### <a href="LJ-code301-day3.md">Day 3</a>
+- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions">RegExp</a> (patterns used to match character combinations in strings)
