@@ -15,5 +15,5 @@
 - `*` - matches the preceeding expression 0 or more times (`/bo*/` = `'b'` | `'booooo'`
 - `+` - matches the preceeding expression 1 or more times (`/a+/`) = `'a'` | `'aaaaaa'`
 - `?` - matches the preceeding expression 0 or 1 time (`/e?le?/`) = `'el'` | `'le'` | `'l'`
-- `.` - matches any single character (`/.n/`) = `'on'` | `'an'`, <p style="display: inline; color:#ff3300; font-weight: bold;">EXCEPT:</p> `'near'`
+- `.` - matches any single character (`/.n/`) = `'on'` | `'an'`, <b>EXCEPT:</b> `'near'`
 - `/(x)/` - matches x and remembers for later use. Called in the same instance with `\1` `\2` etc.. and called later, or in a .replace() method perhaps with `$1` `$2` etc..
