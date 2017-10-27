@@ -3,7 +3,7 @@
 <a href="301_README.md">`301 Index`</a>
 <hr>
 
-#### <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions">RegExp</a> (patterns used to match character combinations in strings)
+#### <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions">RegExp</a> (patterns used to match character combinations in strings) - <a href="http://regex101.com">RegEx 101</a> - <a href="http://regexr.com">RegEx Cheatsheet</a>
 - Expression Literal
   - `/ab+c/g`
 - Constructor Function
