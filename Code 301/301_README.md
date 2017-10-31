@@ -22,3 +22,8 @@
 
 #### <a href="LJ-code301-day5.md">Day 5</a>
 - Ternary Expression
+
+#### <a href="LJ-code301-day6.md">Day 6</a>
+- REST (Representational State Transfer)
+- CRUD
+- AJAX
