@@ -30,3 +30,7 @@
 
 #### <a href="LJ-code301-day7.md">Day 7</a>
 - SQL (sorting)
+
+#### <a href="LJ-code301-day8.md">Day 8</a>
+- SQL - Structured Query Language (relational databases)
+- Node

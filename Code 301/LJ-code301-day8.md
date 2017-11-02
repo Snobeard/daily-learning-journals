@@ -11,6 +11,5 @@
 - `ORDER BY -ascending || descending conditional-`
 - `LIMIT -num- OFFSET -num-`
 
-
 #### Node
 - body-parser => parses body into useable format for put and post
