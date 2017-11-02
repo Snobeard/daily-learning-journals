@@ -27,3 +27,6 @@
 - REST (Representational State Transfer)
 - CRUD
 - AJAX
+
+#### <a href="LJ-code301-day7.md">Day 7</a>
+- SQL (sorting)
