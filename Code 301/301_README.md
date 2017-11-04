@@ -34,3 +34,6 @@
 #### <a href="LJ-code301-day8.md">Day 8</a>
 - SQL - Structured Query Language (relational databases)
 - Node
+
+#### [Day 9](LJ-code301-day9.md)
+- Functional Programming
