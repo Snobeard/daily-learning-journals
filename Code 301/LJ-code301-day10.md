@@ -1,4 +1,4 @@
-# LJ Code 301 - Day 9
+# LJ Code 301 - Day 10
 [`Home`](../README.md)
 [`301 Index`](301_README.md)
 <hr>
