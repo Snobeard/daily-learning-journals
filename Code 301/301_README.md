@@ -1,6 +1,5 @@
 # Code 301 - Sept. 2017
 <a href="../README.md">`Home`</a>
-
 <hr>
 
 #### <a href="LJ-code301-day1.md">Day 1</a>
@@ -37,3 +36,6 @@
 
 #### [Day 9](LJ-code301-day9.md)
 - Functional Programming
+
+#### [Day 10](LJ-code301-day10.md)
+- Semantic Versioning
