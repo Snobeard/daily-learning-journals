@@ -39,3 +39,6 @@
 
 #### [Day 10](LJ-code301-day10.md)
 - Semantic Versioning
+
+#### [Day 11](LJ-code301-day11.md)
+- Duplicating Event Handlers
