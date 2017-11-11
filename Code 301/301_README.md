@@ -42,3 +42,8 @@
 
 #### [Day 11](LJ-code301-day11.md)
 - Duplicating Event Handlers
+
+#### [Day 12](LJ-code301-day12.md)
+- API request Authorization
+- API Non-Authorization
+- [Open Graph Protocol](http://ogp.me/)
