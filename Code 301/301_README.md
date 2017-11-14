@@ -47,3 +47,6 @@
 - API request Authorization
 - API Non-Authorization
 - [Open Graph Protocol](http://ogp.me/)
+
+#### [Day 13](LJ-code301-day13.md)
+- Handlebars - Filling a Data Array as Individual Components
