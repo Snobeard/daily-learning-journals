@@ -10,3 +10,6 @@
 - `$('.recipes').on('click', 'a.show-more', function(...` *<- selects one*
 </br> vs
 </br> `$('a.show-more').click(function(...` *<-selects many*
+
+#### Retrieve all branches
+- `git pull origin` *<- fetches all branches from 'origin'*

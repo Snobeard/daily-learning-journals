@@ -54,3 +54,4 @@
 #### [Day 14](LJ-code301-day14.md)
 - RegEx - consecutive spaces
 - Individual vs unique event listeners
+- Retrieve all git branches
