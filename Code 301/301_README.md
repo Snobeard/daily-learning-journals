@@ -13,7 +13,7 @@
 - jQuery Selectors / Methods
 
 #### <a href="LJ-code301-day3.md">Day 3</a>
-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions">RegExp</a> (patterns used to match character combinations in strings)
+- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions">RegEx</a> (patterns used to match character combinations in strings)
 
 #### <a href="LJ-code301-day4.md">Day 4</a>
 - `functions() { }` vs `() => { }`
@@ -50,3 +50,7 @@
 
 #### [Day 13](LJ-code301-day13.md)
 - Handlebars - Filling a Data Array as Individual Components
+
+#### [Day 14](LJ-code301-day14.md)
+- RegEx - consecutive spaces
+- Individual vs unique event listeners
