@@ -58,3 +58,8 @@
 
 #### [Day 15](LJ-code301-day15.md)
 - SQL - CONCAT
+
+#### [Day 16](LJ-code301-day16.md)
+- CSS Overwriting
+- Media scaling with jQuery
+- Prevent click functionatlity (not recommended)
