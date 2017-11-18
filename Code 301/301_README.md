@@ -63,3 +63,6 @@
 - CSS Overwriting
 - Media scaling with jQuery
 - Prevent click functionatlity (not recommended)
+
+#### [Day 17](LJ-code301-day17.md)
+- Click everywhere besides where you choose
