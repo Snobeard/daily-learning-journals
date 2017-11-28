@@ -1,4 +1,4 @@
-# Code 301 - Sept. 2017
+# Code 301 - Oct. 2017
 <a href="../README.md">`Home`</a>
 <hr>
 
