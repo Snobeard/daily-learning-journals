@@ -3,15 +3,30 @@
 #### <a href="Code 201/201_README.md">`Code 201`</a> <a href="Code 301/301_README.md">`Code 301`</a>
 <hr>
 
+#### Tools
+- GIT ([GitHub](https://github.com/) | [install](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) | [.gitignore](https://www.gitignore.io/))
+- Slack
+- Atom ([install](https://atom.io/))
+- VisualStudioCode ([Docs](https://code.visualstudio.com/docs) | [install](https://code.visualstudio.com/Download))
+- nodeJS ([install](https://nodejs.org/en/download/))
+- Heroku ([site](https://dashboard.heroku.com/))
+
 #### Languages
 - HTML
 - CSS
 - JavaScript
-- SQL
+- SQL (postgreSQL | [install](https://www.postgresql.org/download/) | [installationHelp](http://www.postgresqltutorial.com/install-postgresql/))
 
 #### Libraries
-- jQuery
+- jQuery ([cheatSheet](https://oscarotero.com/jquery/) | [Download](http://jquery.com/download/) | [CDN](https://code.jquery.com/))
 
 #### CSS files
-- normalize.css
-- default.css
+- normalize.css ([CDN](https://cdnjs.com/libraries/normalize))
+- default.css ([Code](https://cssreset.com/scripts/eric-meyer-reset-css/))
+
+#### Helpful Websites
+- [CodePen](https://codepen.io/)
+- [LearnCSSLayout](http://learnlayout.com/)
+- [CodeWars](https://www.codewars.com)
+- [jQuery Cheat Sheet](https://oscarotero.com/jquery/)
+- [http status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
