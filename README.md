@@ -1,6 +1,6 @@
 # Daily-learning-journals
 
-#### [`Code 201`]('Code 201/201_README.md') [`Code 301`]('Code 301/301_README.md') [`Code 401`]('Code 401/401_README.md')
+#### [`Code 201`](Code%20201/201_README.md) [`Code 301`](/Code%20301/301_README.md) [`Code 401`](Code%20401/401_README.md)
 <hr>
 
 #### Tools
