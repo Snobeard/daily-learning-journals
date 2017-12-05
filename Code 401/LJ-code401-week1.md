@@ -1,6 +1,5 @@
-# LJ Code 401 - Day 1
-[`Home`](../README.md)
-[`401 Index`](401_README.md)
+# LJ Code 401 - Week 1
+[`Home`](../README.md) [`401 Index`](401_README.md)
 <hr>
 
 #### View File in Terminal Window
@@ -37,6 +36,12 @@
 1. Re-state the problem
 2. Work through an example
   - Test for edge cases
+    - null/undefined
+    - empty
+    - duplicated values
+    - incorrect types
+    - mixture of data types
+  - assumptions
 3. Think about implementation
   - pseudo-code
 4. Write code
