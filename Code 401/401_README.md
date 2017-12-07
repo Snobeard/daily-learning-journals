@@ -17,5 +17,6 @@
 - Big O
 - Linked Lists
 - README documentation
-- OSI model
+- OSI (Open Systems Interconnection) model
 - Winston
+- HTTP - sending 'text' through 'tcp'

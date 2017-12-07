@@ -10,6 +10,7 @@
 - VisualStudioCode ([Docs](https://code.visualstudio.com/docs) | [install](https://code.visualstudio.com/Download))
 - nodeJS ([install](https://nodejs.org/en/download/) | [nvm](https://github.com/creationix/nvm))
 - Heroku ([site](https://dashboard.heroku.com/))
+- httpie ([site](https://httpie.org/))
 
 #### Languages
 - HTML
@@ -41,6 +42,9 @@
 - `net` - [docs](https://nodejs.org/api/net.html)
 - `faker` - [docs](https://www.npmjs.com/package/faker)
 - `winston` - [docs](https://www.npmjs.com/package/winston)
+- `http` - [docs](https://nodejs.org/api/http.html)
+- `dotenv` - [docs](https://www.npmjs.com/package/dotenv)
+- `'uuid` - [docs]()
 
 #### Terms
 - Big O - [cheat sheet](http://bigocheatsheet.com/)

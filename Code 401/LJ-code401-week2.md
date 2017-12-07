@@ -54,8 +54,7 @@
   - credits!
   - sources
 
-#### OSI model - [wiki](https://en.wikipedia.org/wiki/OSI_model)
-- 
+#### OSI (Open Systems Interconnection) model - [wiki](https://en.wikipedia.org/wiki/OSI_model)
 
 #### Winston - [docs](https://www.npmjs.com/package/winston)
 - log severity
@@ -67,3 +66,43 @@
   - 5       Notice: normal but significant condition
   - 6       Informational: informational messages
   - 7       Debug: debug-level messages
+
+#### HTTP - sending 'text' through 'tcp'
+- headers (text)
+- body (content)
+- [status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+  - 200's - O.K.
+  - 400's - error is made
+  - 500's - server error
+- breakdown of the handlers (http://)(reddit.com)(/r/cats)
+  - $1 = http
+  - $2 = TCP => DNS
+  - $3 = http
+- cat request.http | nc(net cat) google.com \<port\(80)> 
+- [request headers](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields)
+  - accept (what I need)
+  - host (me)
+  - origin (destination)
+  - content-type (what I send)
+
+#### Promises
+``` 
+// resolve will map to the next 'then' -- .then(x => return x) goes to next '.then' --
+// reject will map to the next 'catch' -- .then(x => throw new Error('x')) goes to the next '.catch' --
+
+let createPromise = () = new Promise((resolve, reject) => {
+  resolve('I am a resolve');
+  reject('I am a reject');
+});
+
+createPromise()
+  .then(value => console.log(value)); // log: I am a resolve
+  .catch(value => console.log(value)); // log: I am a reject
+
+Promise.resolve('I am a reject')
+  .then(value => Promise.reject(value));
+  .catch(value => console.log(value)); // log: I am a reject
+```
+
+#### Slack Poll
+- /poll "<title\>" "<option 1>" "<option 2>"
