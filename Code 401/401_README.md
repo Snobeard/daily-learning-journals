@@ -20,3 +20,5 @@
 - OSI (Open Systems Interconnection) model
 - Winston
 - HTTP - sending 'text' through 'tcp'
+- Promises
+- Slack Poll
