@@ -11,6 +11,7 @@
 - nodeJS ([install](https://nodejs.org/en/download/) | [nvm](https://github.com/creationix/nvm))
 - Heroku ([site](https://dashboard.heroku.com/))
 - httpie ([site](https://httpie.org/))
+- MongoDB ([Docs](https://docs.mongodb.com/) ) | [install(linux)](https://www.howtoforge.com/tutorial/install-mongodb-on-ubuntu-16.04/#install-mongodb-on-ubuntu-)
 
 #### Languages
 - HTML
@@ -44,7 +45,9 @@
 - `winston` - [docs](https://www.npmjs.com/package/winston)
 - `http` - [docs](https://nodejs.org/api/http.html)
 - `dotenv` - [docs](https://www.npmjs.com/package/dotenv)
-- `'uuid` - [docs]()
+- `'uuid` - [docs](https://www.npmjs.com/package/uuid)
+- `fs-extra` - [docs](https://www.npmjs.com/package/fs-extra)
+- `express` - [docs]()
 
 #### Terms
 - Big O - [cheat sheet](http://bigocheatsheet.com/)

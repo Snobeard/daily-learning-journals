@@ -22,3 +22,11 @@
 - HTTP - sending 'text' through 'tcp'
 - Promises
 - Slack Poll
+
+#### [Week 3](LJ-code401-week3.md)
+- Binary Search Tree - log2
+- Doubly Linked List
+- Object-Relational Mapping (ORM)
+- Databases
+- PostGres vs Mongo
+- Mongoose
