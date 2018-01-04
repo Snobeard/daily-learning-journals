@@ -35,6 +35,7 @@
 
 #### Node Modules
 - `fs` - [docs](https://nodejs.org/api/fs.html)
+- `fs-extra` - [docs](https://www.npmjs.com/package/fs-extra)
 - `body-parser` - [docs](https://www.npmjs.com/package/body-parser-json)
 - `buffer` - [docs](https://nodejs.org/api/buffer.html)
 - `eslint` - [docs](https://www.npmjs.com/package/eslint)
@@ -46,8 +47,13 @@
 - `http` - [docs](https://nodejs.org/api/http.html)
 - `dotenv` - [docs](https://www.npmjs.com/package/dotenv)
 - `'uuid` - [docs](https://www.npmjs.com/package/uuid)
-- `fs-extra` - [docs](https://www.npmjs.com/package/fs-extra)
-- `express` - [docs]()
+- `express` - [docs](https://www.npmjs.com/package/express)
+- `bcrypt` - [docs](https://www.npmjs.com/package/bcrypt)
+- `jsonwebtoken` - [docs](https://www.npmjs.com/package/json-web-token)
+- `mongoose` - [docs](https://www.npmjs.com/package/mongoose)
+- `aws-sdk` - [docs]()
+- `aws-sdk-mock` - [docs]()
+- `multer` - [docs]()
 
 #### Terms
 - Big O - [cheat sheet](http://bigocheatsheet.com/)

@@ -34,7 +34,7 @@
 - Postgres
   - Relational Database
   - Organized tables
-Mongo
+- Mongo
   - NoSQL Database
   - collection of files
 

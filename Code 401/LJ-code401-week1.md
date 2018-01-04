@@ -24,9 +24,10 @@
 - `bind`
 - `apply`
 
-#### `jest -i --coverage`
+#### `jest -i --coverage --watch`
 - `-i` waits for each test to process
 - `--coverage` shows table at bottom of test process containing lines covered and %'s
+- `--watch` continously cycles tests as you update the files
 
 #### `exceptions` vs `-1`
 - `exceptions` cannot be ignored
