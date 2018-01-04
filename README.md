@@ -54,6 +54,7 @@
 - `aws-sdk` - [docs]()
 - `aws-sdk-mock` - [docs]()
 - `multer` - [docs]()
+- `artillery` - [docs](https://artillery.io)
 
 #### Terms
 - Big O - [cheat sheet](http://bigocheatsheet.com/)
