@@ -3,29 +3,28 @@
 <hr>
 
 #### Load Testing
-1. Latency `20ms is good`
-  - Time it takes for the user request to get to the api </br>
-2. Processing Time
-  - Time it takes for the server to process the request </br>
-3. Response Time
-  - Time it takes for the server recieve the request, process the request, and send back the response
+1. Latency `20ms is good` </br>
+   Time it takes for the user request to get to the api 
+2. Processing Time </br>
+   Time it takes for the server to process the request
+3. Response Time </br>
+   Time it takes for the server recieve the request, process the request, and send back the response
 
 - RPS (requests per second) `1,000 is good`
-  - 
 
 - Performance `users we can support now`
 
 - Scalability `users we can support eventually`
 
-- Scenario
-  - All the user actions
+- Scenario </br>
+  All the user actions
 
 
-- Phase
-  - different timestamps of heavy load
+- Phase </br>
+  different timestamps of heavy load
 
-- Flow
-  - specific actions the user makes
+- Flow </br>
+  specific actions the user makes
 
 ###### Artillery.js
 1. Create `<name>.yml` file
@@ -78,14 +77,14 @@ scenarios:
 ```
 
 #### [Webpack Concepts](https://webpack.js.org/concepts/)
-1. Entry
-  - imports all the dependencies from one file traversing the dependency tree
-2. Output
-  - bundle.js -- simplified output from the entry
-3. Loaders
-  - converts valid matches into modules
-4. Plugins
-  - sets up the configuration to do anything
+1. Entry </br>
+   imports all the dependencies from one file traversing the dependency tree
+2. Output </br>
+   bundle.js -- simplified output from the entry
+3. Loaders </br>
+   converts valid matches into modules
+4. Plugins </br>
+   sets up the configuration to do anything
 
 ###### node packages
 - webpack
