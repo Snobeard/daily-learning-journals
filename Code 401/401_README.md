@@ -30,3 +30,19 @@
 - Databases
 - PostGres vs Mongo
 - Mongoose
+
+#### [Week 4](LJ-code401-week4.md)
+- Binary Tree
+- Binary Search Tree
+- K-ary Trees
+- Basic Authorization
+- Hash Algorithm vs Crypto Algorithm
+- AWS amazon web service
+- Library vs SDK
+- Hash table - Heap
+- [Travis.ci.org](https://travis-ci.org)
+
+#### [Week 5](LJ-code401-week5.md)
+- Load Testing
+- [Webpack Concepts](https://webpack.js.org/concepts/)
+- React
