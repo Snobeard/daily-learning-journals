@@ -76,3 +76,48 @@ scenarios:
   return done();
 }
 ```
+
+#### [Webpack Concepts](https://webpack.js.org/concepts/)
+1. Entry
+  - imports all the dependencies from one file traversing the dependency tree
+2. Output
+  - bundle.js -- simplified output from the entry
+3. Loaders
+  - converts valid matches into modules
+4. Plugins
+  - sets up the configuration to do anything
+
+###### node packages
+- webpack
+- webpack-dev-server
+- html-webpack-plugin
+- extract-text-webpack-plugin
+- node-sass
+- sass-loader
+- resolve-url-loader
+- css-loader
+- babel-core
+- babel-loader
+- babel-preset-react
+- babel-preset-es2015 (babel-preset-env)
+- babel-plugin-transform-object-rest-spread
+- react
+- react-dom
+
+#### React
+
+###### Member Functions
+methods you create for each react Component
+
+###### Hooks
+methods that react auto runs for you
+ex: render()
+
+###### State
+- State
+database state
+
+- UI State
+
+- V state
+view state
