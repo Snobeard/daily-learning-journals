@@ -18,6 +18,8 @@
 - CSS
 - JavaScript / ES6
 - SQL (postgreSQL | [install](https://www.postgresql.org/download/) | [installationHelp](http://www.postgresqltutorial.com/install-postgresql/))
+- MongoDB
+- React
 
 #### Libraries
 - jQuery ([cheatSheet](https://oscarotero.com/jquery/) | [Download](http://jquery.com/download/) | [CDN](https://code.jquery.com/))
@@ -46,7 +48,7 @@
 - `winston` - [docs](https://www.npmjs.com/package/winston)
 - `http` - [docs](https://nodejs.org/api/http.html)
 - `dotenv` - [docs](https://www.npmjs.com/package/dotenv)
-- `'uuid` - [docs](https://www.npmjs.com/package/uuid)
+- `uuid` - [docs](https://www.npmjs.com/package/uuid)
 - `express` - [docs](https://www.npmjs.com/package/express)
 - `bcrypt` - [docs](https://www.npmjs.com/package/bcrypt)
 - `jsonwebtoken` - [docs](https://www.npmjs.com/package/json-web-token)

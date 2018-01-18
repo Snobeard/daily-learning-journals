@@ -120,3 +120,44 @@ database state
 
 - V state
 view state
+
+#### Redux
+
+Provider
+  - holds store
+Store
+  - used to store all application's state
+    - getState()
+    - dispatch() - change state
+    - subscribe()
+Reducer (middleman - takes in state, and an action. Returns new state from the store)
+  - defines app state
+  - defines interations to app store
+  (action)
+    - type: 'string'
+    - payload: <anything>
+      - item_create | cat_update
+
+#### Definitions
+<dl>
+  <dt>Store</dt>
+  <dd>stores all the state in the application</dd>
+
+  <dt>State</dt>
+  <dd>all the information we store in the application and use to interact with the user</dd>
+
+  <dt>Reducer</dt>
+  <dd>fn(state, action) => new state</dd>
+
+  <dt>Action</dt>
+  <dd>{ type, payload } -> dispatch an action into the reducer to update the store</dd>
+
+  <dt>Payload</dt>
+  <dd>defines what values are changed in the state</dd>
+
+  <dt>Redux</dt>
+  <dd>a library used to manage the state in the application</dd>
+
+  <dt>Provider</dt>
+  <dd>used to store the 'Store' - react</dd>
+</dl>

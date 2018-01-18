@@ -46,3 +46,5 @@
 - Load Testing
 - [Webpack Concepts](https://webpack.js.org/concepts/)
 - React
+- Redux
+- React/Redux Definitions
