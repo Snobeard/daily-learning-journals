@@ -138,7 +138,7 @@ Reducer (middleman - takes in state, and an action. Returns new state from the s
     - payload: <anything>
       - item_create | cat_update
 
-#### Definitions
+#### React/Redux Definitions
 <dl>
   <dt>Store</dt>
   <dd>stores all the state in the application</dd>
