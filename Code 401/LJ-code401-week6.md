@@ -22,17 +22,17 @@ $five = 5px;
 
 #### Webpack
 ###### Debug Development
-environment plugin
-define plugin - define constants, (ex: `__API_URL__`)
-`uglifyjs-webpack-plugin`
-`clean-webpack-plugin`
+environment plugin </br>
+define plugin - define constants, (ex: `__API_URL__`) </br>
+`uglifyjs-webpack-plugin` </br>
+`clean-webpack-plugin` </br>
 
 ###### Production
-webpack-clean - create a new build each time
+webpack-clean - create a new build each time </br>
 webpack-uglifier - reduce file size by limiting variable names and others
 
 #### Cookies
 __browser commands__
-`document.cookie` => string of all cookies
-`document.cookie.split(';')` => array of all the cookies
+`document.cookie` => string of all cookies </br>
+`document.cookie.split(';')` => array of all the cookies </br>
 `document.cookie.split(';').map(cookie => cookie.split('='));` => array of key value pairs
