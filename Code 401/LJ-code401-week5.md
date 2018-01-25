@@ -140,6 +140,12 @@ Reducer (middleman - takes in state, and an action. Returns new state from the s
 
 #### React/Redux Definitions
 <dl>
+  <dt>React</dt>
+  <dd>component based javascript library for building UI</dd>
+
+  <dt>Dispatch</dt>
+  <dd>dispatches actions to a reducer to change the store</dd>
+
   <dt>Store</dt>
   <dd>stores all the state in the application</dd>
 
@@ -159,5 +165,5 @@ Reducer (middleman - takes in state, and an action. Returns new state from the s
   <dd>a library used to manage the state in the application</dd>
 
   <dt>Provider</dt>
-  <dd>used to store the 'Store' - react</dd>
+  <dd>used to store the 'Store' - react-redux</dd>
 </dl>

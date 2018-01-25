@@ -57,6 +57,7 @@
 - `aws-sdk-mock` - [docs]()
 - `multer` - [docs]()
 - `artillery` - [docs](https://artillery.io)
+- `validator` - [docs](https://www.npmjs.com/package/validator)
 
 #### Terms
 - Big O - [cheat sheet](http://bigocheatsheet.com/)

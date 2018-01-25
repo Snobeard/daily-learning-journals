@@ -48,3 +48,8 @@
 - React
 - Redux
 - React/Redux Definitions
+
+#### [Week 6](LJ-code401-week6.md)
+- SCSS
+- Webpack
+- Cookies
