@@ -43,3 +43,63 @@ sorts the collection without creating a copy
 
 ###### stable
 sorts the collection while keeping duplicates in the same order as they were
+
+#### [CSS / SASS](http://sass-lang.com/guide)
+`sass -- watch input.scss output.css`
+`sass -- watch app/sass:public/stylesheets`
+
+- partials - modularizing components (sass file with a leading underscore `_partial.scss`)
+  - able to import them `@import 'partial';`
+
+```
+style
+  | -core.scss
+  lib
+    | -base
+        -_reset.scss
+        -_base.scss
+      -layout
+        -_layout.scss
+```
+```
+component
+  | 
+  navbar
+    | -navbar.scss  -> import into core.scss
+      -index.js
+```
+
+#### OAuth
+- http ([302](en.wikipedia.org/wiki/HTTP_302)) redirection
+- using outside resources for authentication
+- still uses tokens and http
+- login/signup using the same link
+
+1. our link -> google
+2. google -> google backend authentication
+3. google auth sends hash-code -> our backend
+4. our backend return code -> google backend
+5. google sends token -> our backend
+6. our backend sends google's token -> Google+
+7. Google+ sends |email*,user,picture| -> our backend
+8. our backend creates account in database with email and username
+
+#### [Google-Developers](developers.google.com)
+1. Google Api Console (at footer)
+2. Select org
+3. Create new Project
+4. Set project name
+5. Switch to project
+6. Credentials -> Create
+7. OAuth Client
+8. Configure Consent Screen
+9. Select Type -> web app
+10. Name application and authorize origins
+  - `localhost:8080`
+11. Authorized redirect URIs
+  - localhost:3000/oauth/google
+12. Create 
+  - save GOOGLE\_CLIENT\_ID=`key` and GOOGLE\_CLIENT\_SECRET=`id`
+13. GoogleAPI dashboard -> enable API's
+14. google plus API (`Google+ API`)
+![oauth](../assets/oauth-diagram.png)
