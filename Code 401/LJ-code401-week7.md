@@ -84,7 +84,11 @@ component
 7. Google+ sends |email*,user,picture| -> our backend
 8. our backend creates account in database with email and username
 
+![oauth](../assets/oauth-diagram.png)
+
 #### [Google-Developers](developers.google.com)
+<hr>
+
 1. Google Api Console (at footer)
 2. Select org
 3. Create new Project
@@ -102,4 +106,3 @@ component
   - save GOOGLE\_CLIENT\_ID=`key` and GOOGLE\_CLIENT\_SECRET=`id`
 13. GoogleAPI dashboard -> enable API's
 14. google plus API (`Google+ API`)
-![oauth](../assets/oauth-diagram.png)
