@@ -53,3 +53,9 @@
 - SCSS
 - Webpack
 - Cookies
+
+#### [Week 7](LJ-code401-week7.md)
+- [Sorting](https://en.wikipedia.org/wiki/Sorting_algorithm) 
+- [CSS / SASS](http://sass-lang.com/guide)
+- OAuth
+- [Google-Developers](developers.google.com)
